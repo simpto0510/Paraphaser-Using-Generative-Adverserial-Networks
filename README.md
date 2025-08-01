@@ -1,8 +1,8 @@
 # Paraphaser Using Generative Adversarial Network
 
 
-A full, end-to-end PyTorch implementation of DivGAN — a latent-conditioned Generative Adversarial Network for diverse paraphrase generation.
-The repo reproduces the key ideas of “DivGAN: Towards Diverse Paraphrase Generation via Diversified Generative Adversarial Network” (Cao & Wan, 2020) and ships:
+A full, end-to-end PyTorch implementation of a latent-conditioned Generative Adversarial Network for diverse paraphrase generation.
+The repo tries to reproduce and modify the key ideas of “DivGAN: Towards Diverse Paraphrase Generation via Diversified Generative Adversarial Network” (Cao & Wan, 2020) and ships:
 
 ## ⚙️ Components
 - CSV → HDF5/JSON pre-processing pipeline (Quora Question Pairs)	
