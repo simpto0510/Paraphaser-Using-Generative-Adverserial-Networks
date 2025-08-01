@@ -16,8 +16,8 @@ The repo tries to reproduce and modify the key ideas of “DivGAN: Towards Diver
 - Adversarial (with label smoothing)
 - Hinge-style diversity
 - Training loop with gradient-clipping, FP16 toggle
-- Evaluation metrics: corpus-level BLEU-4	✅
-- Ready-to-run Kaggle notebook cell blocks	✅
+- Evaluation metrics: corpus-level BLEU-4	
+- Ready-to-run Kaggle notebook cell blocks	
 
 ## 🛠 Key dependencies
 - PyTorch ≥ 2.0
